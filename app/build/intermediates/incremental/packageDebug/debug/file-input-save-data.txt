@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Jul 07 06:01:49 MMT 2018
+2.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+6.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex
+2.set=ANDROID_RESOURCE
+10.set=DEX
+10.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
+4.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex
+5.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+1.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex
+9.set=DEX
+9.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
+10.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+1.set=DEX
+7.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=DEX
+0.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+8.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+9.base=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+4.file=C\:\\Users\\User\\Downloads\\AlarmManager-BroadcastReceiver-Service-master1\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=DEX
